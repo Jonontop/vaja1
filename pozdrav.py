@@ -1,1 +1,3 @@
-print("Pozdrav iz vaje 1")
+print("Pozdravljen, GitHub!")
+ime = input("Kako ti je ime? ")
+print("Pozdravljen,", ime)
